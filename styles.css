@@ -1,0 +1,14 @@
+body{
+   
+    background-color: aqua;
+}
+.items
+{   margin-top: 250px;
+    display: flex;
+    justify-content: center;
+    
+}
+.btn{
+    border-color: blue;
+    border-radius: 10%;
+}
